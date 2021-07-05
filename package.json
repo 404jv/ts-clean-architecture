@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/404jv/ts-clean-architecture#readme",
   "devDependencies": {
+    "lint-staged": "^11.0.0",
     "standard": "^16.0.3"
   }
 }
