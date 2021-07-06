@@ -4,7 +4,8 @@
   "description": "API to apply the clean architecture.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "ts-node-dev src/server.ts"
   },
   "lint-staged": {
     "*.ts": []
